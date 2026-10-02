@@ -8,7 +8,7 @@ title: Professional Portfolio
 
 I am a supply chain professional with more than 18 years of experience in **strategic sourcing, contract management, technology investments, governance, and risk management**.
 
-I am currently pursuing an *MS in Supply Chain Analytics* at California State University San Marcos to improve my skills in analytics, Python, and ERP systems. My goal is to combine analytics with my professional experience to improve supply chain decisions and overall contract performance.
+I am currently pursuing an *MS in Supply Chain Analytics* at California State University San Marcos to improve my skills in analytics, Python, and ERP systems. My goal is to combine analytics with my professional experience to optimize supply chain decisions and contract performance.
 
 ## Core Strengths
 - Strategic sourcing and procurement
