@@ -38,7 +38,7 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 
 # Recent Projects
 1. **Technology Capital Planning:** Led a $47 million annual portfolio and ten-year investment plan.
-2. **Telecom Contract Governance:** Administered a $1.6 billion technology sourcing contract.
+2. **Technology Contract Governance:** Administered a $1.6 billion technology sourcing contract.
 3. **Contract Data Modernization:** Improved tracking and governance for more than 2,000 contractual obligations.
 4. **Data Transformation:** Modernized quarterly spend analysis (over $110M) and demand planning.
 
