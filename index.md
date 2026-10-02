@@ -22,14 +22,18 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 
 ### Senior Capital Portfolio Analyst
 
-**BC Transit** | *July 2023-December 2025*
+**BC Transit**
+
+*July 2023-December 2025*
 
 - Led analysis and planning for a **$47 million annual technology capital portfolio** and a ten-year capital plan.
 - Monitored technology, fleet, and facilities projects and prepared executive-level portfolio reports.
 
 ### Senior Contract Management Analyst
 
-**BC Provincial Government - Ministry of Citizens' Services** | *January 2020-July 2023*
+**BC Provincial Government - Ministry of Citizens' Services**
+
+*January 2020-July 2023*
 
 - Managed **$1.6 billion technology sourcing and contract-management** for a 12-member public sector consortium.
 - Evaluated contract performance, KPIs, procurement proposals, and forecasting scenarios.
