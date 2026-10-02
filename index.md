@@ -44,13 +44,14 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 
 ### Operations Manager
 
-**Camosun College**
+**Camosun College** *2014-2020*
+
 
 - Managed budgets, purchasing, contracts, grants, assets, policies, and administrative staff.
 
 ### Special Projects Analyst
 
-**Royal Roads University**
+**Royal Roads University** *2012-2014*
 
 - Prepared executive research, budget reports, partnership analysis, and government briefing materials.
 
