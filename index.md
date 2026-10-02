@@ -46,6 +46,7 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 
 ### California State University San Marcos
 **Master of Science in Supply Chain Analytics** - *Current student*
+
 Areas of study:
 - Supply Chain Analytics
 - Data Visualization
