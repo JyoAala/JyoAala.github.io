@@ -18,7 +18,7 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 
 # Professional Experience
 
-### Senior Capital Portfolio Analyst, BC Transit
+### Senior Capital Portfolio Lead, BC Transit
 - Led analysis and planning for a **$47 million annual technology capital portfolio** and a ten-year capital plan.
 - Monitored technology, fleet, and facilities projects and prepared executive-level portfolio reports.
 
