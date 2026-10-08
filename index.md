@@ -25,7 +25,7 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 ### Senior Contract Management Analyst, BC Government - Ministry of Technology
 - Managed **$1.6 billion technology sourcing and contract-management** for a 12-member public sector consortium.
 - Evaluated contract performance, KPIs, procurement proposals, and forecasting scenarios.
-- Helped modernize a contract data system managing more than **2,000 contractual obligations**.
+- Modernized a contract data system tracking more than **2,000 contractual obligations, quarterly**.
 - Initiated a **data transformation** project to modernize spend analysis and demand planning.
 
 ### Operations Manager, Camosun College & Royal Roads University
@@ -44,7 +44,7 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 
 # Education
 
-### California State University San Marcos
+### California State University, San Marcos
 **Master of Science in Supply Chain Analytics** - *Current student*
 
 Areas of study:
@@ -66,5 +66,3 @@ Areas of study:
 ## Connect With Me
 - [GitHub](https://github.com/JyoAala)
 - [LinkedIn](https://www.linkedin.com/in/jyo-a-5205009)
-
-*Thank you for visiting my professional portfolio.*
