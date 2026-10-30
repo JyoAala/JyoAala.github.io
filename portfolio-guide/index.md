@@ -103,6 +103,10 @@ Because the repository was named `JyoAala.github.io`, GitHub Pages used the repo
 
 After pushing the changes, I opened the **Actions** tab in my GitHub repository. I located the workflow named **pages build and deployment** and confirmed that it completed successfully with a green checkmark.
 
+![Successful GitHub Pages build and deployment](/assets/img/portfolio-guide/05-pages-deployment.png)
+
+*Figure 5. The successful pages build and deployment workflow for my Milestone II update.*
+
 I then visited my published portfolio to make sure the headshot, professional information, headings, lists, and links appeared correctly.
 
 ## 7. Final E-Portfolio
@@ -112,6 +116,10 @@ My completed professional e-portfolio is available here:
 [View my professional e-portfolio](https://jyoaala.github.io/)
 
 The portfolio presents my professional background, supply chain and contract management experience, education, selected projects, technical skills, and professional links.
+
+![Final professional portfolio with the new Projects section](/assets/img/portfolio-guide/06-final-portfolio.png)
+
+*Figure 6. My published professional portfolio with the new Projects section and link to this guide.*
 
 ## Resources
 
