@@ -36,11 +36,19 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 - Managed vendor, staffing, and workforce contracts.
 - Managed professional hiring services for clinical and allied health recruitment.
 
-# Recent Projects
+# Selected Professional Projects
 1. **Technology Capital Planning:** Led a $47 million annual portfolio and ten-year investment plan.
 2. **Technology Contract Governance:** Administered a $1.6 billion technology sourcing contract.
 3. **Contract Data Modernization:** Improved tracking and governance for more than 2,000 contractual obligations.
 4. **Data Transformation:** Modernized quarterly spend analysis (over $110M) and demand planning.
+
+# Projects
+
+## GitHub Pages E-Portfolio Guide
+
+I documented the steps I followed to build and publish this professional e-portfolio using GitHub Pages, Markdown, Jekyll, and the Minimal theme.
+
+[View my step-by-step e-portfolio guide](portfolio-guide/)
 
 # Education
 
