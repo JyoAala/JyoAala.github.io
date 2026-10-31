@@ -42,13 +42,6 @@ I am currently pursuing an *MS in Supply Chain Analytics* at California State Un
 3. **Contract Data Modernization:** Improved tracking and governance for more than 2,000 contractual obligations.
 4. **Data Transformation:** Modernized quarterly spend analysis (over $110M) and demand planning.
 
-# Projects
-
-## GitHub Pages E-Portfolio Guide
-
-I documented the steps I followed to build and publish this professional e-portfolio using GitHub Pages, Markdown, Jekyll, and the Minimal theme.
-
-[View my step-by-step e-portfolio guide](portfolio-guide/)
 
 # Education
 
@@ -70,6 +63,14 @@ Areas of study:
 - Excel, Microsoft Project, and SharePoint
 - Python, SQL, and Power BI
 - SAP S/4HANA, PeopleSoft, JD Edwards, and Ariba
+
+# Projects
+
+## My E-Portfolio Guide
+
+I documented the steps I followed to build and publish this professional e-portfolio using GitHub Pages, Markdown, Jekyll, and the Minimal theme.
+
+[View my step-by-step e-portfolio guide](portfolio-guide/)
 
 ## Connect With Me
 - [GitHub](https://github.com/JyoAala)

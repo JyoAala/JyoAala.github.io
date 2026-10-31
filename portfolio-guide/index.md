@@ -3,9 +3,8 @@ layout: default
 title: Building My GitHub Pages E-Portfolio
 ---
 
-# Building My GitHub Pages E-Portfolio
+# How I Created My GitHub E-Portfolio
 
-## Introduction
 
 I created this e-portfolio to present my professional experience, education, skills, and projects in one accessible location. I used GitHub Pages, Markdown, and the Minimal Jekyll theme to publish the website.
 
@@ -130,6 +129,11 @@ I used the following resources while building and reviewing my portfolio:
 - [GitHub Desktop documentation](https://docs.github.com/en/desktop)
 - [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [Visual Studio Code Markdown Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
+- OpenAI. (2026). *ChatGPT* [Large language model]. https://chatgpt.com/
+
+## AI Assistance Disclosure
+
+I used ChatGPT (OpenAI, 2026) to organize this  guide and clarify Markdown syntax. I completed the repository changes, screenshots, commits, and deployment checks for accuracy.
 
 ## Conclusion
 
